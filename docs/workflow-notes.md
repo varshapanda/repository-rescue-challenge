@@ -13,3 +13,5 @@ Use this file as a reference when reviewing the repo history and workflow.
 - current workflow is inconsistent and needs cleanup.
 
 - small update from test123 branch.
+
+- abandoned note on newbranch.
